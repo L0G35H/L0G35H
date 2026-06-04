@@ -4,7 +4,7 @@
 <!--                     ANIMATED BANNER                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=LOGESHWARAN%20V&fontSize=60&fontColor=00ff41&fontAlignY=55&animation=fadeIn&stroke=00ff41&strokeWidth=1&desc=Cybersecurity%20Student%20%7C%20Aspiring%20Penetration%20Tester&descAlignY=75&descSize=18&descColor=39d353" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=LOGESHWARAN%20V&fontSize=60&fontColor=00ff41&fontAlignY=55&animation=fadeIn&stroke=00ff41&strokeWidth=1&desc=ComputerScience%20Student%20%7C%20Aspiring%20Penetration%20Tester&descAlignY=75&descSize=18&descColor=39d353" />
 
 <!-- TYPING SVG ANIMATION -->
 <a href="https://git.io/typing-svg">
