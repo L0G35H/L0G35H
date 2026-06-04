@@ -40,7 +40,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  Name       : LOGESHWARAN V                                      ║
-║  Role       : Cybersecurity Student | Aspiring Pentester         ║
+║  Role       : Compurt Science Student | Aspiring Pentester         ║
 ║  Location   : Tamil Nadu, India 🇮🇳                               ║
 ║  Status     : Actively learning & hacking (ethically!) 🔐        ║
 ║  Interests  : Red Teaming · Bug Bounty · CTF Challenges          ║
@@ -136,12 +136,12 @@ Motivated **Cybersecurity Student** with hands-on experience in penetration test
 
 | Skill Area | Tools Used | Level |
 |:---|:---|:---|
-| 🌐 Web App Pentesting | Burp Suite, OWASP ZAP, SQLMap | Intermediate |
+| 🌐 Web App Pentesting | Burp Suite, OWASP ZAP, SQLMap | Beginner |
 | 🔍 Network Scanning | Nmap, Netdiscover, Masscan | Intermediate |
-| 🐚 Linux Administration | Bash, Cron, SSH, File Permissions | Intermediate |
+| 🐚 Linux Administration | Bash, Cron, SSH, File Permissions | Beginner |
 | 💀 Exploitation | Metasploit, Manual Exploits | Beginner–Intermediate |
 | 📡 Vulnerability Assessment | OpenVAS, Nikto, Nessus (learning) | Beginner–Intermediate |
-| 🔑 Privilege Escalation | LinPEAS, GTFOBins, Manual Enum | Intermediate |
+| 🔑 Privilege Escalation | LinPEAS, GTFOBins, Manual Enum | Beginner |
 
 ---
 
@@ -209,7 +209,7 @@ Motivated **Cybersecurity Student** with hands-on experience in penetration test
 <br/>
 
 **Active Lab Areas:**
-- 🐧 **Linux Privilege Escalation** — GTFOBins, SUID, Cron jobs, PATH hijacking
+
 - 🌐 **Web Application Security** — SQLi, XSS, SSRF, IDOR, File Uploads
 - 📡 **Network Enumeration** — Nmap scripts, Service fingerprinting, SMB/FTP recon
 - 🔓 **Vulnerability Assessment** — CVE analysis, exploit validation, patch prioritization
@@ -264,7 +264,7 @@ Motivated **Cybersecurity Student** with hands-on experience in penetration test
 
 | Badge | Certification | Status |
 |:---:|:---|:---:|
-| 🎓 | **B.Sc. Computer Science** — Core Academic Foundation | ✅ In Progress |
+| 🎓 | **B.E. Computer Science** — Core Academic Foundation | ✅ In Progress |
 | 🔐 | **CompTIA Security+** — Planned | 📅 Upcoming |
 | 🌐 | **eJPT (eLearnSecurity Junior Pentester)** — Target | 📅 Upcoming |
 | 🎯 | **CEH (Certified Ethical Hacker)** — Goal | 📅 Upcoming |
@@ -285,38 +285,6 @@ Motivated **Cybersecurity Student** with hands-on experience in penetration test
 <!--                    GITHUB STATS                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=logeshwaran-v&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=logeshwaran-v&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=c9d1d9" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logeshwaran-v&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION SNAKE ANIMATION                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/logeshwaran-v/logeshwaran-v/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/logeshwaran-v/logeshwaran-v/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/logeshwaran-v/logeshwaran-v/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-> ⚙️ *To enable the snake animation, add a GitHub Actions workflow in your repo. See [platane/snk](https://github.com/platane/snk) for setup instructions.*
 
 ---
 
@@ -351,11 +319,11 @@ Motivated **Cybersecurity Student** with hands-on experience in penetration test
     <img src="https://img.shields.io/badge/Instagram%20@logesh.cryptx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/logeshwaran-v" target="_blank">
+  <a href="https://github.com/L0G35H" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:logeshwaran@email.com" target="_blank">
+  <a href="mailto:logeshvelliangiri@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
