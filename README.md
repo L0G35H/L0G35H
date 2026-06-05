@@ -1,10 +1,10 @@
-[<div align="center">
+<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED BANNER                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=LOGESHWARAN%20V&fontSize=60&fontColor=00ff41&fontAlignY=55&animation=fadeIn&stroke=00ff41&strokeWidth=1&desc=ComputerScience%20Student%20%7C%20Aspiring%20Penetration%20Tester&descAlignY=75&descSize=18&descColor=39d353" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=LOGESHWARAN%20V&fontSize=60&fontColor=00ff41&fontAlignY=55&animation=fadeIn&stroke=00ff41&strokeWidth=1&desc=CS%20Student%20%7C%20Aspiring%20Penetration%20Tester&descAlignY=75&descSize=18&descColor=39d353" />
 
 <!-- TYPING SVG ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -40,7 +40,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  Name       : LOGESHWARAN V                                      ║
-║  Role       : Compurt Science Student | Aspiring Pentester         ║
+║  Role       : CS Student | Aspiring Pentester                   ║
 ║  Location   : Tamil Nadu, India 🇮🇳                               ║
 ║  Status     : Actively learning & hacking (ethically!) 🔐        ║
 ║  Interests  : Red Teaming · Bug Bounty · CTF Challenges          ║
@@ -141,7 +141,7 @@ Motivated **Cybersecurity Student** with hands-on experience in penetration test
 | 🐚 Linux Administration | Bash, Cron, SSH, File Permissions | Beginner |
 | 💀 Exploitation | Metasploit, Manual Exploits | Beginner–Intermediate |
 | 📡 Vulnerability Assessment | OpenVAS, Nikto, Nessus (learning) | Beginner–Intermediate |
-| 🔑 Privilege Escalation | LinPEAS, GTFOBins, Manual Enum | Beginner |
+
 
 ---
 
@@ -279,14 +279,6 @@ Motivated **Cybersecurity Student** with hands-on experience in penetration test
 - 🟩 Hack The Box — Actively solving beginner/intermediate machines
 - 📖 PortSwigger Academy — Working through Web Security labs
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-
----
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                ACTIVITY GRAPH                                  -->
@@ -311,7 +303,7 @@ Motivated **Cybersecurity Student** with hands-on experience in penetration test
 <div align="center">
 
 <p>
-  <a href="https://www.linkedin.com/in/logeshwaran-v" target="_blank">
+  <a href="https://www.linkedin.com/in/logeshwaran-v8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -357,4 +349,3 @@ Thanks for visiting. Stay curious. Hack ethically. 🔐
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer&animation=fadeIn)
 
 </div>
-](https://github.com/L0G35H)
