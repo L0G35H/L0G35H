@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     ANIMATED BANNER                           -->
@@ -357,3 +357,4 @@ Thanks for visiting. Stay curious. Hack ethically. 🔐
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer&animation=fadeIn)
 
 </div>
+](https://github.com/L0G35H)
