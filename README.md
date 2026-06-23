@@ -1,28 +1,4 @@
-<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED BANNER                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=LOGESHWARAN%20V&fontSize=60&fontColor=00ff41&fontAlignY=55&animation=fadeIn&stroke=00ff41&strokeWidth=1&desc=CS%20Student%20%7C%20Aspiring%20Penetration%20Tester&descAlignY=75&descSize=18&descColor=39d353" />
-
-<!-- TYPING SVG ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Ethical+Hacking+%7C+Red+Teaming+%7C+CTF+Challenges;Penetration+Testing+%7C+OWASP+%7C+Bug+Bounty;Linux+%7C+Kali+%7C+Network+Enumeration;Learning%2C+Breaking%2C+Securing+%F0%9F%94%90" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=logeshwaran-v&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Penetration%20Testing-00ff41?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-00ff41?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" />
-</p>
-
-</div>
 
 ---
 
